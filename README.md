@@ -1,4 +1,5 @@
 Minhas Demonstrações com Banco de Dados SQLite
+
 Olá! Eu criei este repositório com o objetivo de demonstrar minhas noções básicas na manipulação de bancos de dados SQLite, utilizando Python e a biblioteca Pandas.
 
 O arquivo principal aqui, o pandas_bd_desafio.ipynb, é um Jupyter Notebook onde apresento exemplos práticos de como realizo operações comuns em SQLite. Nele, você encontrará demonstrações de:
